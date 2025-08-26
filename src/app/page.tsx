@@ -21,7 +21,7 @@ export default function Home() {
               <li><a href="#reviews">Reviews</a></li>
               <li><a href="#faqs">FAQs</a></li>
               <li><a href="#contact">Contact</a></li>
-              <li><a href="#location">Location</a></li>
+              <li><a href="#contact">Location</a></li>
             </ul>
           </nav>
         </div>
@@ -39,7 +39,7 @@ export default function Home() {
             <div className="h-40 border rounded bg-gray-100 flex items-center justify-center">Hero image / visual</div>
             <aside className="p-4 border rounded bg-gray-50">
               <h3 className="font-semibold">Primary CTA</h3>
-              <button className="mt-3 px-4 py-2 border rounded">Get Your Free Estimate</button>
+              <button className="mt-3 px-4 bg-[#8806ce] text-white py-2 border rounded">Get Your Free Estimate</button>
             </aside>
           </div>
         </section>
@@ -121,7 +121,7 @@ export default function Home() {
               <label className="block text-sm mt-3">Message</label>
               <textarea className="w-full mt-1 p-2 border rounded" rows={4} />
 
-              <button type="submit" className="mt-3 px-4 py-2 border rounded">Send</button>
+              <button type="submit" className=" bg-[#8806ce] text-white mt-3 px-4 py-2 border rounded">Send</button>
             </form>
 
             <aside className="p-4 border rounded">
