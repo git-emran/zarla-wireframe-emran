@@ -1,9 +1,5 @@
-# Welcome to the Zarla Wireframe Assignment
+# Wireframe Site
 
-by Emran H
+> Submission by Emran H
 
-### What is happening ?
-
-This is just a wireframe but with semantic tags as if this was a real project.
-
->
+According to the assignment this is just a wireframe site. This wireframe has the scaffolds of a ready to use components. Visual styling and advanced layout can be implemented easily.
